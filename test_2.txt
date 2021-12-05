@@ -1,3 +1,4 @@
 <xml>
 <name>Margaret</name>
 <age>20</age>
+<city>Minsk</city>
